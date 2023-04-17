@@ -18,7 +18,7 @@
 
     <properties>
         <junit.version>4.13.1</junit.version>
-        <spring.framework.version>5.3.20</spring.framework.version>
+        <spring.framework.version>5.3.27</spring.framework.version>
         <aspectj.version>1.9.5</aspectj.version>
     </properties>
 
